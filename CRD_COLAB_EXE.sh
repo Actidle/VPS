@@ -121,3 +121,5 @@ printf "\r$r$b    Error Occured $endc$enda\n" >&2
 printf "\n$g$b    Installation Completed $endc$enda\n\n" >&2
 
 
+
+printf "\n$g$b Finished Succesfully$endc$enda"
